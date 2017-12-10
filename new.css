@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+#classthree{
+	float: top;
+	left: auto;
+	right: auto;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#class2{
+	float: top;
+}
+#game{
+	
+	float: top;
+	
+	text-align: center;
+}
+#sider{
+	background-color:#8D8D8D;
+	position: absolute;
+	float: right;
+	right: 0px;
+	top: 0px;
+	height: 100%;
+}
+a:link{color:#82F5FF;text-decoration: none}
+a:visited{color:#FFCACB}
+a:hover{color:#FFDC76}
+a:active{color:#ff00ff}
+.hjq a:link{color:#00FF00}
+.hjq a:active{color:#00ff00}
